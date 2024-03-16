@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "TO-ANDREA PEROL",
+    introTitle: 'You Mean More Than To Me',
+    introDesc: `"Every moment without you feels like a lifetime. You're the missing piece in my puzzle of happiness, Ikaw ang bumou ng piyesa ko`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    title: 'Gusto kolang sabihin na GUSTO KITA! at handa kong samahan ka in ur downs and ups i'm here always fr u 🥰',
+    desc: 'CAN I COURT YOU? ',
+    btnYes: 'Potciiiii amp bwahahahaha <33',
+    btnNo: 'EME MO NENG :3',
+    question: 'LEgit ba Toy? <3',
+    btnReply: 'Gusto kita <3',
+    reply: 'Gaya nga ng wari ni adie 'ano bang salamangkang meron ka bat nabighani sayong ganda' <33333333',
+    mess: 'sana masarap ulam namen bukas😘😘',
+    messDesc: 'pagaling ka.',
+    btnAccept: 'mag rirides patayo <3',
+    messLink: 'https://github.com/zukahai/Andrea-Perol' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
