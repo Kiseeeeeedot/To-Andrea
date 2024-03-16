@@ -1,17 +1,17 @@
-const CONFIG = {
-    titleWeb: "TO-ANDREA PEROL",
-    introTitle: 'You Mean More Than To Me',
-    introDesc: `"Every moment without you feels like a lifetime. You're the missing piece in my puzzle of happiness, Ikaw ang bumou ng piyesa ko`,
+const CONFIG = {const CONFIG = {
+    titleWeb: "To Anrea Perol",
+    introTitle: 'Andrea Perol',
+    introDesc: `Kung ika'y magiging akin 'Di ka na muling luluha pa Pangakong 'di ka lolokohin Ng puso kong nagmamahal`,
     btnIntro: '^^HiHi^^',
-    title: 'Gusto kolang sabihin na GUSTO KITA! at handa kong samahan ka in ur downs and ups i'm here always fr u 🥰',
-    desc: 'CAN I COURT YOU? ',
-    btnYes: 'Potciiiii amp bwahahahaha <33',
-    btnNo: 'EME MO NENG :3',
-    question: 'LEgit ba Toy? <3',
-    btnReply: 'Gusto kita <3',
-    reply: 'Gaya nga ng wari ni adie 'ano bang salamangkang meron ka bat nabighani sayong ganda' <33333333',
-    mess: 'sana masarap ulam namen bukas😘😘',
-    messDesc: 'pagaling ka.',
-    btnAccept: 'mag rirides patayo <3',
-    messLink: 'https://github.com/zukahai/Andrea-Perol' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    title: 'Gusto Kita Andrea Perol',
+    desc: 'CAn i court u? ',
+    btnYes: 'halaaa pereng tenge ',
+    btnNo: 'eme mo neng :3',
+    question: 'ikaw ang bumuo sa piyesa ko <3',
+    btnReply: 'kahit na toyoin ka <3',
+    reply: 'mahal na kita <33333333',
+    mess: 'ikaw at ikaw ang pipiliin sa araw araw 😘😘',
+    messDesc: 'I LOVE YOU!.',
+    btnAccept: 'Potchiiii <3',
+    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
